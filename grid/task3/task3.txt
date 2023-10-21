@@ -1,0 +1,6 @@
+grid-auto-row and grid-auto-column are CSS properties used in a CSS Grid Layout to control the size and behavior of implicitly created rows and columns. They come into play when items are placed outside the explicitly defined grid rows and columns.
+
+grid-auto-rows specifies the height of implicitly created rows.
+grid-auto-columns specifies the width of implicitly created columns.
+
+We can set fixed values (e.g., pixels) or use the min max function to create a range of sizes for these implicit rows and columns. These properties are helpful for managing content that doesn't neatly fit into the explicit grid or for creating flexible and responsive grid layouts.

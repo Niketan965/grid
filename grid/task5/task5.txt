@@ -1,0 +1,8 @@
+Justify-items and justify-self are CSS properties used in CSS Grid layouts to control the horizontal alignment of grid items.
+
+Justify-items is applied to the grid container and sets the default horizontal alignment for all items within the grid. It affects all items unless overridden by individual items using justify-self.
+Values for both properties can be start, end, center, or stretch.
+
+justify-self is applied to individual grid items and allows you to override the default horizontal alignment set by justify-items for specific items.
+
+In summary, justify-items sets a default alignment for all items in a grid, while justify-self lets you tailor the alignment of individual items within the same grid.
